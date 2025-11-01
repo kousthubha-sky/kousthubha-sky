@@ -89,7 +89,7 @@ Results-driven Full-Stack Developer with expertise in designing and deploying pr
 
 **Tech Stack:** React.js, FastAPI, Supabase, GitHub REST API, Vercel, Render
 
-[🔗 Live Demo](https://[codepulse-demo.vercel.app](https://gitrepo-analyzer-bhatiyani.vercel.app/)) | [📖 Documentation](https://github.com/kousthubha-sky/gitrepo-analyzere#readme)
+[🔗 Live Demo](https://https://gitrepo-analyzer-bhatiyani.vercel.app/) | [📖 Documentation](https://github.com/kousthubha-sky/gitrepo-analyzere#readme)
 
 ---
 
@@ -110,7 +110,7 @@ Results-driven Full-Stack Developer with expertise in designing and deploying pr
 
 **Tech Stack:** TypeScript, React.js, Node.js, Custom PDF Processing Engine
 
-[🔗 Live Demo](https://[talentscout-ai-demo.vercel.app](https://ai-resume-analyzer-three-khaki.vercel.app/)) | [📖 Documentation](https://github.com/kousthubha-sky/ai-resume-analyzer#readme)
+[🔗 Live Demo](https://https://ai-resume-analyzer-three-khaki.vercel.app/) | [📖 Documentation](https://github.com/kousthubha-sky/ai-resume-analyzer#readme)
 
 ---
 
