@@ -73,7 +73,7 @@ Results-driven Full-Stack Developer with expertise in designing and deploying pr
 
 ## 🚀 Featured Projects
 
-### 📊 [CodePulse Analytics Platform](https://github.com/kousthubha-sky/codepulse)
+### 📊 [CodePulse Analytics Platform](https://github.com/kousthubha-sky/gitrepo-analyzer)
 **Comprehensive repository analytics solution with real-time GitHub insights**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -93,7 +93,7 @@ Results-driven Full-Stack Developer with expertise in designing and deploying pr
 
 ---
 
-### 🎯 [TalentScout AI Resume Analyzer](https://github.com/kousthubha-sky/talentscout-ai)
+### 🎯 [TalentScout AI Resume Analyzer](https://github.com/kousthubha-sky/ai-resume-analyzer)
 **Intelligent ATS-compatible resume evaluation with real-time scoring**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -114,7 +114,7 @@ Results-driven Full-Stack Developer with expertise in designing and deploying pr
 
 ---
 
-### 🍎 [NutriVision Food Scanner](https://github.com/kousthubha-sky/nutrivision)
+### 🍎 [NutriVision Food Scanner](https://github.com/kousthubha-sky/nutriscan)
 **High-performance nutritional analysis with instant dietary compatibility**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
