@@ -13,7 +13,6 @@
 
 ```
 🚀 Building scalable applications with proven 60% performance optimization
-📊 Serving 500+ daily active users across deployed production systems
 🎯 BCA Graduate specializing in Java, React, Node.js & AI Integration
 ```
 
@@ -125,7 +124,6 @@ Results-driven Full-Stack Developer with expertise in designing and deploying pr
 
 **Key Achievements:**
 - 🚀 **Response time reduced from 2.5s to 0.3s** (88% improvement)
-- 📈 **1,000+ daily product scans** with 99.5% uptime
 - 💾 **60% reduction in API calls** through smart client-side caching
 - 🎯 **95% accuracy** in dietary compatibility verification (Vegan, Keto, Gluten-Free)
 - ⚡ **45% faster load times** with 40% reduced server load
