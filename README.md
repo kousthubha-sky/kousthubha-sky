@@ -158,20 +158,6 @@ Backend-focused Software Engineer and AWS Certified Cloud Practitioner specializ
 
 ---
 
-## 📊 Production Metrics
-
-```
-🎯 Daily API Requests:        1,000+
-⚡ P95 Response Time:          <200ms
-📈 System Uptime:              99.9%
-💳 Transaction Reliability:    100%
-💾 Latency Reduction:          60%
-📦 Concurrent Uploads:         2,000+
-🔄 API Call Reduction:         70%
-```
-
----
-
 ## 💼 Technical Expertise
 
 **Core Focus Areas:**
@@ -194,7 +180,7 @@ I'm always interested in collaborating on backend systems and discussing new opp
 
 📧 **Email:** koustubhayadiyala36@gmail.com  
 💼 **LinkedIn:** [kousthubha-yadiyala](https://www.linkedin.com/in/kousthubha-yadiyala)  
-🌐 **Portfolio:** [k-portfolio-liard.vercel.app](https://k-portfolio-liard.vercel.app)  
+🌐 **Portfolio:** [https://kousthubha.xcore-ai.com](https://kousthubha.xcore-ai.com)  
 💻 **LeetCode:** [koustubha-sky](https://leetcode.com/koustubha-sky)  
 📱 **Phone:** +91-9620345612
 
