@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Kousthubha Yadiyala
 
-### Full-Stack Developer | AWS Certified | Performance Optimization Specialist
+### Backend-Focused Software Engineer | AWS Certified | Payment Systems Specialist
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kousthubha-yadiyala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,8 +12,8 @@
 </p>
 
 ```
-🚀 Building scalable applications with proven 60% performance optimization
-🎯 BCA Graduate specializing in Java, React, Node.js & AI Integration
+🚀 Building scalable backend systems with 99.9% uptime
+🎯 BCA Graduate specializing in FastAPI, Node.js & Distributed Systems
 ```
 
 </div>
@@ -22,116 +22,114 @@
 
 ## 💫 About Me
 
-Results-driven Full-Stack Developer with expertise in designing and deploying production-ready applications featuring **AI integration**, **RESTful APIs**, and **automated CI/CD pipelines**. Proven track record of optimizing application performance while delivering scalable solutions across modern web technologies and cloud platforms.
+Backend-focused Software Engineer and AWS Certified Cloud Practitioner specializing in scalable API development and payment processing systems. Built production backends serving 1,000+ users with 99.9% uptime, achieving 60% latency reduction through database and caching optimization. Expert in FastAPI, Node.js, microservices architecture, async processing pipelines, and fault-tolerant systems.
 
-- 🔭 Currently building **AI-powered analytics platforms** and **intelligent automation tools**
-- 🌱 AWS Certified Cloud Practitioner with hands-on experience in EC2, S3, Lambda
-- 💡 Specialized in **performance optimization** - reduced API response times from 2.5s to 0.3s
-- 📈 Processed **2,000+ resume submissions** and **10,000+ commits** across deployed systems
+- 🔭 Currently building **production-grade backends** with **payment gateway integration**
+- 🌱 AWS Certified Cloud Practitioner with hands-on experience in EC2, S3, Lambda, RDS
+- 💡 Specialized in **performance optimization** - achieved 60% latency reduction
+- 📈 Built systems handling **1,000+ daily API requests** with sub-200ms response times
 - 🎓 Bachelor of Computer Applications - **CGPA: 9.14/10.0**
-- 📍 Based in Bengaluru, Karnataka, India
+- 📍 Based in Karnataka, India
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Backend Development
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Frontend (Supporting Skills)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 [CodePulse Analytics Platform](https://github.com/kousthubha-sky/gitrepo-analyzer)
-**Comprehensive repository analytics solution with real-time GitHub insights**
+### 💳 [Xcore-AI - AI SaaS Platform](https://xcore-ai.com)
+**Production-grade FastAPI backend with payment processing**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
 
 **Key Achievements:**
-- ⚡ **55% faster data retrieval** through optimized query caching for 10,000+ commits
-- 📈 **40% productivity boost** via interactive dashboards with live data visualization
-- 🔥 **500+ daily active scans** with sub-second response times
-- 📊 **35% higher user retention** through dynamic visual reporting
+- 🏗️ **Microservices architecture** handling 1,000+ daily API requests
+- ⚡ **99.9% uptime** with sub-200ms P95 response times
+- 💳 **100% transaction reliability** with Razorpay integration and retry logic
+- 🚀 **60% latency reduction** through PostgreSQL optimization and Redis caching
+- 🔐 RESTful API with JWT authentication and rate limiting
 
-**Tech Stack:** React.js, FastAPI, Supabase, GitHub REST API, Vercel, Render
+**Tech Stack:** FastAPI, PostgreSQL, Redis, Razorpay API, JWT, Docker
 
-[🔗 Live Demo](https://https://gitrepo-analyzer-bhatiyani.vercel.app/) | [📖 Documentation](https://github.com/kousthubha-sky/gitrepo-analyzere#readme)
+[🔗 Live Demo](https://xcore-ai.com) | [📖 GitHub](https://github.com/kousthubha-sky/xcore-ai)
 
 ---
 
-### 🎯 [TalentScout AI Resume Analyzer](https://github.com/kousthubha-sky/ai-resume-analyzer)
-**Intelligent ATS-compatible resume evaluation with real-time scoring**
+### 📄 [TalentScout AI - Document Processing Platform](https://ai-resume.xcore-ai.com)
+**Scalable Node.js backend with async processing pipeline**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square&logo=openai&logoColor=white)
+
+**Key Achievements:**
+- 📊 **2,000+ concurrent uploads** handled with efficient resource utilization
+- ⚡ **Sub-1.5-second processing times** through async pipelines
+- 🛡️ **95% success rate** with fault-tolerant architecture
+- 🎯 **92% accuracy** in PDF parsing with stream-based processing
+- 🔄 Circuit breaker patterns for third-party API integration
+
+**Tech Stack:** Node.js, Express.js, Worker Queues, AI APIs, Stream Processing
+
+[🔗 Live Demo](https://ai-resume.xcore-ai.com) | [📖 GitHub](https://github.com/kousthubha-sky/ai-resume-analyzer)
+
+---
+
+### 🔧 [Stack-End - Template Platform](https://stack-end.com)
+**Full-stack application with secure authentication backend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PDF.js](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobe&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Key Achievements:**
-- 🎯 **92% accuracy** in ATS compatibility prediction algorithms
-- ⚡ **1.5-second feedback delivery** for instant user insights
-- 📊 **2,000+ resume submissions** processed successfully
-- 💡 **45% satisfaction score improvement** through detailed recommendations
-- 🔧 **60% code redundancy reduction** via reusable design patterns
+- 🔐 **OAuth 2.0 flows** with Redis-backed session management
+- 📉 **70% reduction in API calls** through intelligent caching
+- 🗄️ **Normalized database schema** with optimized queries
+- 🔄 GitHub REST API orchestration with webhook processing
+- ✅ Complete SDLC from development to production deployment
 
-**Tech Stack:** TypeScript, React.js, Node.js, Custom PDF Processing Engine
+**Tech Stack:** Next.js, TypeScript, PostgreSQL, Redis, GitHub API
 
-[🔗 Live Demo](https://https://ai-resume-analyzer-three-khaki.vercel.app/) | [📖 Documentation](https://github.com/kousthubha-sky/ai-resume-analyzer#readme)
-
----
-
-### 🍎 [NutriVision Food Scanner](https://github.com/kousthubha-sky/nutriscan)
-**High-performance nutritional analysis with instant dietary compatibility**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat-square&logo=opencv&logoColor=white)
-
-**Key Achievements:**
-- 🚀 **Response time reduced from 2.5s to 0.3s** (88% improvement)
-- 💾 **60% reduction in API calls** through smart client-side caching
-- 🎯 **95% accuracy** in dietary compatibility verification (Vegan, Keto, Gluten-Free)
-- ⚡ **45% faster load times** with 40% reduced server load
-- ✅ **95% test coverage** with comprehensive testing suite
-
-**Tech Stack:** React.js, Node.js, MongoDB, Computer Vision APIs, Smart Caching Algorithms
-
-[📖 Documentation](https://github.com/kousthubha-sky/nutriscan#readme)
+[🔗 Live Demo](https://stack-end.com) | [📖 GitHub](https://github.com/kousthubha-sky/stack-end)
 
 ---
 
@@ -151,40 +149,40 @@ Results-driven Full-Stack Developer with expertise in designing and deploying pr
 
 ## 🏆 Achievements & Certifications
 
-🥉 **Third Place Winner** - Teckno IT Competition at Nitte Karkala Institute  
 ☁️ **AWS Certified Cloud Practitioner** - Amazon Web Services (July 2025)  
 🔐 **Cyber Security Job Simulation** - Deloitte Australia via Forage (June 2025)  
 🤖 **Prompt Engineering in Vertex AI** - Google Cloud Platform (July 2025)  
-💻 **Active Problem Solver** - Consistent contributions on LeetCode competitive programming  
-🌟 **Open Source Contributor** - Regular participation in GitHub projects and technical communities
+🥉 **Third Place Winner** - Teckno Information Technology Competition  
+💻 **100+ Problems Solved** - Active problem solver on LeetCode  
+🚀 **5+ Live Applications** - Production backend systems deployed and maintained
 
 ---
 
-## 📊 Key Metrics Across All Projects
+## 📊 Production Metrics
 
 ```
-🎯 Total Users Served:        2,500+
-⚡ Average Response Time:      0.3 - 1.5 seconds
-📈 Daily Active Users:         500+
-🔄 Commits Analyzed:           10,000+
-💾 Performance Improvement:    60% average optimization
-✅ Test Coverage:              95%
-⏱️ System Uptime:              99.5%
-🎨 Code Reusability:           60% reduction in redundancy
+🎯 Daily API Requests:        1,000+
+⚡ P95 Response Time:          <200ms
+📈 System Uptime:              99.9%
+💳 Transaction Reliability:    100%
+💾 Latency Reduction:          60%
+📦 Concurrent Uploads:         2,000+
+🔄 API Call Reduction:         70%
 ```
 
 ---
 
-## 💼 Professional Experience
+## 💼 Technical Expertise
 
-**Full-Stack Development Focus Areas:**
-- 🔹 Microservices Architecture & RESTful API Design
-- 🔹 AI Integration & Machine Learning Model Deployment
-- 🔹 Performance Optimization & Query Caching Strategies
-- 🔹 CI/CD Pipeline Automation with GitHub Actions
-- 🔹 Cloud Infrastructure Management (AWS EC2, S3, Lambda)
-- 🔹 Real-time Data Visualization & Analytics Dashboards
-- 🔹 Test-Driven Development & Agile Methodologies
+**Core Focus Areas:**
+- 🔹 RESTful API Design & Microservices Architecture
+- 🔹 Payment Gateway Integration & Transaction Processing
+- 🔹 Async Processing Pipelines & Event-Driven Architecture
+- 🔹 Database Optimization & Caching Strategies (PostgreSQL, Redis)
+- 🔹 Fault-Tolerant Systems & Circuit Breaker Patterns
+- 🔹 Cloud Infrastructure (AWS EC2, S3, Lambda, RDS, DynamoDB)
+- 🔹 Authentication Systems (OAuth 2.0, JWT, Session Management)
+- 🔹 Distributed Systems & High Availability Design
 
 ---
 
@@ -192,11 +190,11 @@ Results-driven Full-Stack Developer with expertise in designing and deploying pr
 
 <div align="center">
 
-I'm always interested in collaborating on innovative projects and discussing new opportunities!
+I'm always interested in collaborating on backend systems and discussing new opportunities!
 
 📧 **Email:** koustubhayadiyala36@gmail.com  
 💼 **LinkedIn:** [kousthubha-yadiyala](https://www.linkedin.com/in/kousthubha-yadiyala)  
-🌐 **Portfolio:** [kousthubha-sky.vercel.app](https://kousthubha-sky.vercel.app)  
+🌐 **Portfolio:** [k-portfolio-liard.vercel.app](https://k-portfolio-liard.vercel.app)  
 💻 **LeetCode:** [koustubha-sky](https://leetcode.com/koustubha-sky)  
 📱 **Phone:** +91-9620345612
 
@@ -204,6 +202,6 @@ I'm always interested in collaborating on innovative projects and discussing new
 
 <img src="https://komarev.com/ghpvc/?username=kousthubha-sky&color=blueviolet&style=for-the-badge" alt="Profile Views">
 
-**⭐ From [kousthubha-sky](https://github.com/kousthubha-sky) | Building scalable solutions, one commit at a time**
+**⭐ From [kousthubha-sky](https://github.com/kousthubha-sky) | Building reliable backend systems, one commit at a time**
 
 </div>
