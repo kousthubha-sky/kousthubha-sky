@@ -2,13 +2,11 @@
 
 **Full-Stack SWE & NPM Author** · AWS Certified · BCA '25 · Bengaluru, India
 
-Building production systems and open-source developer tooling. 7+ live apps, 2 OSS contributions, 1k+ edge requests.
+Building production systems and open-source developer tooling. 7+ live apps, OSS contributions, 1k+ edge requests.
 
 ---
 
 **Stack** — `TypeScript` `Python` `Node.js` `FastAPI` `Next.js` `PostgreSQL` `Redis` `Cloudflare Workers` `AWS`
-
----
 
 **Projects**
 
